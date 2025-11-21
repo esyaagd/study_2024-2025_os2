@@ -37,7 +37,8 @@ header-includes:
 
 ## Тест на тему Основы сетевой конфигурации в Linux
 
-   ![Основы сетевой конфигурации в Linux](<img width="1920" height="1080" alt="Снимок экрана (164)" src="https://github.com/user-attachments/assets/9b0a0f8c-c0b5-48b4-bcd1-4d9c40be246e" />
+   ![Основы управления процессами в Linux](../images/01.png
+){ #fig:001  }
 
 ){ #fig:001 width=70% }
 
