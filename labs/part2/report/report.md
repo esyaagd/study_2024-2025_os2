@@ -77,8 +77,7 @@ header-includes:
 
 1. Тест на тему поиск справочной информации в Linux (см. рис. [@fig:001]).  
 
-   ![поиск справочной информации в Linux](<img width="1920" height="1080" alt="Снимок экрана (97)" src="https://github.com/user-attachments/assets/ff261140-3fa9-49d3-9d65-8a5d50dabbb6" />
-){ #fig:001 width=70% }
+   ![поиск справочной информации в Linux](images/001.png){ #fig:001 }
 
 2. Тест на тему поиск справочной информации в Linux  (см. рис. [@fig:002]).  
 
