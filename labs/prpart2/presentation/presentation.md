@@ -33,7 +33,7 @@ header-includes:
 
 ## Тест на тему поиск справочной информации в Linux
 
-   ![поиск справочной информации в Linux](<img width="1920" height="1080" alt="Снимок экрана (97)" src="https://github.com/user-attachments/assets/ff261140-3fa9-49d3-9d65-8a5d50dabbb6" />
+   ![поиск справочной информации в Linux](images/01.png
 ){ #fig:001 width=70% }
 
 
