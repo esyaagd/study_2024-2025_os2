@@ -51,9 +51,7 @@ header-includes:
 ## Тест на тему настройка ssh доступа и его защита
 
 
-   ![настройка ssh доступа и его защита](
-<img width="1920" height="1080" alt="Снимок экрана (176)" src="https://github.com/user-attachments/assets/ffbd5ced-c94b-4b77-b261-b06e7e6239db" />
-
+   ![настройка ssh доступа и его защита](images/01.png
 ){ #fig:003 width=70% }
 
 ## Тест на тему повышение безопаности сетевого взаимодействия
