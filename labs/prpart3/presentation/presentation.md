@@ -44,9 +44,8 @@ header-includes:
 
 ## Тест на тему Базовая диагностика сети
   
-   ![Базовая диагностика сети](<img width="1920" height="1080" alt="Снимок экрана (172)" src="https://github.com/user-attachments/assets/4ff74aef-827c-4768-809d-f00275eb42f2" />
-
-){ #fig:002 width=70% }
+   ![Базовая диагностика сети](../images/07.png
+){ #fig:007 width=70% }
 
 
 ## Тест на тему настройка ssh доступа и его защита
