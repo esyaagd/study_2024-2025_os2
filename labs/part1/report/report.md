@@ -82,8 +82,7 @@ header-includes:
 
 
 2.  Тест по теме роль системного адмистратора Linux.см .рис. [@fig:002]).
-   ![Инструмент для мониторинга серверов](<img width="1920" height="1080" alt="7665b0def2d9ca7df64a9a97994ed037_%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(64)" src="https://github.com/user-attachments/assets/9601d4fd-7ed6-46e3-ac77-b36394fa7072" />
-){ #fig:002 width=70% }
+   ![Инструмент для мониторинга серверов](images/02.png){ #fig:002 }
 
 3. Тест по теме роль системного адмистратора Linux. (см. рис. [@fig:003]).  
 
